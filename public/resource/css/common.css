@@ -1,0 +1,13 @@
+a{
+	color: #fff;
+	text-decoration:none!important;
+}
+.admin_bgimg{
+	background-image: url('/public/resource/images/admin_bgimg.jpg');
+}
+.web_logo{
+	width: 90px;
+}
+.x-show{
+	cursor: pointer;
+}
